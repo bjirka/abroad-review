@@ -8,8 +8,6 @@
 3. Allison Kinnamore
 4. Justin Hong
 
-### Team Drive
-https://drive.google.com/drive/u/0/folders/0ALkWLyNteESJUk9PVA
 
 ### Pivotal Tracker
 https://www.pivotaltracker.com/n/projects/2400699
