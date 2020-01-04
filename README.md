@@ -1,14 +1,12 @@
-# Ritcheys-Rowdies
+# Marina Bay SaaS
 ## Project Info
 ### Project Description
 ***Experience Recommendation / Review System:*** We need a private TripAdvisor / Yelp for small groups to use on study abroad trips. Students post "experiences" (restaurants, attractions) and give a short review / recommendation (e.g. "must do", "not worth it") that other students can use to identify worthwhile and interesting activities.
 ### Team Members
-1. Ryan Mickus
-2. Kassandra Guzman
-3. Haley Ferguson
-4. Tylor Herndon
-5. Zach Hein
-6. Viwat Te
+1. Bernard Jirka
+2. Paige Raun
+3. Allison Kinnamore
+4. Justin Hong
 
 ### Team Drive
 https://drive.google.com/drive/u/0/folders/0ALkWLyNteESJUk9PVA
